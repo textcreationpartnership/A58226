@@ -1,0 +1,238 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Reasons against petitioning the King for restoring the deprived bishops without repentance by a divine of the Church of England.</title>
+            <author>A. B.</author>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1690</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 29 KB of XML-encoded text transcribed from 5 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2014-11">2014-11 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A58226</idno>
+            <idno type="STC">Wing R474</idno>
+            <idno type="STC">ESTC R14464</idno>
+            <idno type="EEBO-CITATION">12648738</idno>
+            <idno type="OCLC">ocm 12648738</idno>
+            <idno type="VID">65247</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online text creation partnership.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. A58226)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 65247)</note>
+            <note>Images scanned from microfilm: (Early English books, 1641-1700 ; 775:11)</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>Reasons against petitioning the King for restoring the deprived bishops without repentance by a divine of the Church of England.</title>
+                  <author>A. B.</author>
+               </titleStmt>
+               <extent>8 p.   </extent>
+               <publicationStmt>
+                  <publisher>s.n.,</publisher>
+                  <pubPlace>[London? :</pubPlace>
+                  <date>1690?]</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Caption title.</note>
+                  <note>Reproduction of original in Huntington Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>Church of England --  Bishops.</term>
+               <term>Great Britain --  History --  William and Mary, 1689-1702.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2013-02</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2013-02</date>
+            <label>Apex CoVantage</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2013-05</date>
+            <label>Sarah Wingo</label>Sampled and proofread</change>
+         <change>
+            <date>2013-05</date>
+            <label>Sarah Wingo</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2014-03</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <body>
+         <div type="text">
+            <pb n="1" facs="tcp:65247:1"/>
+            <head>Reaſons againſt petitioning the King for reſtoring the de<g ref="char:EOLhyphen"/>prived Biſhops without Repentance.</head>
+            <head type="sub">By a Divine of the Church of <hi>England.</hi>
+            </head>
+            <p n="1">1. TO petition King <hi>William</hi> for reſtoring thoſe Men to their Revenues, Dignities and Functions who think him an Uſurper, and the late King <hi>James</hi> to be rightful King, and that all who have ſworn Allegiance to King <hi>William,</hi> who h<gap reason="illegible" resp="#MURP" extent="2 letters">
+                  <desc>••</desc>
+               </gap> formerly ſworn to the late King <hi>James,</hi> are for<g ref="char:EOLhyphen"/>ſworn, is, in effect, to petition for the late King <hi>James</hi> that he might be ſet in the Throne, and for the <hi>French King</hi> his right Arm, and for the ſuppoſititious and feigned Prince of <hi>Wales,</hi> and for idolatrous Father <hi>Peters;</hi> it is to petition King <hi>William</hi> againſt himſelf, and againſt the Parliament, and againſt the preſent Government, and to undo all that hath been done, and involve three Nations in Confuſion, and eſtabliſh Popery and Slavery for all Generations: I ſay, to petition that they may be reſtored without Repentance of this their wicked Error, is plainly ſo.</p>
+            <p n="2">2. The Perſons petitioned for, while they retain this their wicked Error, cannot be reſtored without an eſſential Alteration of the preſent Liturgy, which the Petitioners themſelves are utterly againſt, and the Perſons petitioned for all along unto the preſent Change, have been utter<g ref="char:EOLhyphen"/>ly againſt alſo; and muſt be ſuppoſed to be ſo ſtill, unleſs Self-Intereſt, or ſome other Reaſon hath made them change their Mind. For the pre<g ref="char:EOLhyphen"/>ſcribed Forms of Prayer for K. <hi>William</hi> and Q. <hi>Mary,</hi> are an eſſential part of the Liturgy, and no Man can, without notorious Hypocriſy and diſſembling, uſe them, and unfeignedly aſſent and conſent to them, and require of Perſons to be ordained, inſtituted, and inducted, unfeigned <hi>Aſſent</hi> and <hi>Conſent</hi> to them, who thinks in his Conſcience that King <hi>William</hi> and Queen <hi>Mary</hi> are Uſurpers, and that it is ſinful to ſwear Alle<g ref="char:EOLhyphen"/>giance to them. So that if the King and Parliament had made no Law for ſwearing Allegiance to their preſent Majeſties, but had left all Mini<g ref="char:EOLhyphen"/>ſters free to ſwear or not, as they ſaw good, of neceſſity the Perſons peti<g ref="char:EOLhyphen"/>tioned for muſt have been Non-conformiſts to the Church of <hi>England</hi> in one eſſential Point, and to diſſent in any one eſſential Point is <hi>inſtar omni<g ref="char:EOLhyphen"/>um,</hi> as if they had diſſented in all.</p>
+            <p n="3">
+               <pb n="2" facs="tcp:65247:2"/>3. The Perſons petitioned for have made themſelves infamous to the Nation, and to all the Reformed Churches, and to the late King <hi>James,</hi> and all his Adherents, by their own notorious ſelf-contradicting and ſelf<g ref="char:EOLhyphen"/>confounding Practices. For they by their publiſhed Declaration <hi>Decemb.</hi> 11, 1688. (to which I refer them) immedia<gap reason="illegible" resp="#MURP" extent="1 span">
+                  <desc>〈…〉</desc>
+               </gap> upon the late King's withdrawing himſelf, and real Abdication, and leaving his People as Sheep without a Shepherd, and by ſubſequent Acts purſuant to that De<g ref="char:EOLhyphen"/>claration, did indeed, tho <gap reason="illegible" resp="#MURP" extent="2 letters">
+                  <desc>••</desc>
+               </gap>t in word, renounce and diſclaim all Allegi<g ref="char:EOLhyphen"/>ance to the late King <hi>James,</hi> and betook themſelves to the then Prince of <hi>Orange,</hi> as under God, the Saviour and Pr<gap reason="illegible" resp="#MURP" extent="1 letter">
+                  <desc>•</desc>
+               </gap>tector of the Nation from Popery and Slavery. So that of all Perſons in the Nation none have ſo little reaſon to ſcruple Allegiance to their preſent Majeſties as the deprived Biſhops. Let them but reconcile themſel<gap reason="illegible" resp="#MURP" extent="1 span">
+                  <desc>〈…〉</desc>
+               </gap> to their former Actions, and they muſt needs own and conſent that his pr<gap reason="illegible" resp="#MURP" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ſe<gap reason="illegible" resp="#MURP" extent="2 letters">
+                  <desc>••</desc>
+               </gap> Majeſty is moſt rightful King. For them now to ſtand off from Alleg<gap reason="illegible" resp="#MURP" extent="1 span">
+                  <desc>〈…〉</desc>
+               </gap> to their preſent Ma<g ref="char:EOLhyphen"/>jeſties, what is it but to play faſt and looſe with God and Conſcience in Matters which concern the Temporal and Eternal Safety of three King<g ref="char:EOLhyphen"/>doms, which is very ſinful and ſcandalous in a common Man, and much more in Biſhops? <hi>They pleaſe not God, and are contrary to all Men:</hi> 1 Theſſ. 2. 15.</p>
+            <p n="4">4. It is alledged that the Perſons petitioned for, did in the Reign of the late King perform an Act ſingularly meritorious, which coſt them Impri<g ref="char:EOLhyphen"/>ſonment in the Tower. Touching which, let theſe things be impartially weighed; 1. In the Judgment of the preſent Bp of <hi>H.</hi> it was no meritori<g ref="char:EOLhyphen"/>ous Act at all, but criminal, as his own publiſhed Paper doth witneſs, and his ſending abroad the late King's Declaration to the Clergy of his Dioceſs to publiſh it, contrary to the Judgment and Practice of the impriſoned Biſhops: And therefore it is to be wondred at, if his Lordſhip ſhall now in petitioning for the deprived Biſhops applaud that as highly meritorious, which ſome Years ago he did in Print declare to all the World to be vitu<g ref="char:EOLhyphen"/>perable. 2. Admitting it to be ſingularly meritorious, it could merit only Temporal Glory, and this they have had, the Nation hath applauded them for it. This can be no Atonement for future Crimes and Scandals without Repentance. They have ſtained the Glory of their paſt Merit for lack of Perſeverance, and by their Diſloyalty to the preſent Govern<g ref="char:EOLhyphen"/>ment: For the late <hi>French</hi> Invaſion, and the Rebellion in <hi>Ireland,</hi> and united Endeavours of Papiſts, and other Sons of <hi>Belial,</hi> againſt their pre<g ref="char:EOLhyphen"/>ſent Majeſties and their Government, are the genuine Conſequence of this wicked Error and ſeditious Principle held by the deprived Biſhops, that their preſent Majeſties are Uſurpers, and that it is ſinful to ſwear Allegiance to them. 3. The deprived Biſhops about the time of their Impriſonment
+<pb n="3" facs="tcp:65247:2"/> did in Print expreſs Tenderneſs towards the Diſſenters, and promiſed them fair things, when they ſhould have opportunity in the next Parliament and Convocation: the generality of the Nation, both Clergy and Laity, did approve this their Promiſe. They have had the opportunity of perfor<g ref="char:EOLhyphen"/>ming this their Promiſe, but they have not had the Honeſty and Integrity ſo to do. For it is the deprived Biſhops and their Adherents, who refuſe to come to reaſonable Accord with the Diſſenters, and keep up the Breach between their Majeſties Proteſtant Subjects, and diſlike the Act for Tolera<g ref="char:EOLhyphen"/>tion, and ſo render themſelves diſhoneſt and pe<gap reason="illegible" resp="#MURP" extent="1 letter">
+                  <desc>•</desc>
+               </gap>fidious Perſons, who in time of Affliction and impending Calamity make juſt and equal Promiſes, and when the Affliction is over, refuſe to perform, and invent ſinful Shifts and Evaſions to cloak their Hypocriſy.</p>
+            <p n="5">5. To petition the King and Parliament for reſtoring theſe Diſloyal Per<g ref="char:EOLhyphen"/>ſons to their Profits, and Honours, and Eccleſiaſtical Functions, without Repentance of their <gap reason="illegible" resp="#MURP" extent="1 span">
+                  <desc>〈…〉</desc>
+               </gap> Error againſt the preſent Government, is plainly to petition the King and Parliament that they will be unjuſt, and make themſelves, and the Laws, and Government, odious to God and all good Men, by affording equal Honour, Countenance and Protection to good and bad Subjects, to loyal and diſloyal Perſons, to the worthy and unworthy. <hi>Sontibus nimis ignoſcendo in ſontibus fit injuria.</hi>
+            </p>
+            <p n="6">6. The preſent way of petitioning is not for mutual Forbearance and Condeſcenſion towards all ſuch as agree in the Foundation, and do but differ in Circumſtantials, and things indifferent, and variable Modes and Forms, no way deſtructive of the Foundation; ſuch a Petition we are no way againſt, but greatly for. But it is that the King and Parliament will deviſe ſome way, whereby thoſe may be reſtored to their Profits, Dignities and Offices, whoſe diſloyal and ſeditious Principles ſtrike at the Foundati<g ref="char:EOLhyphen"/>on, and unhinge the Government, and tend to univerſal Confuſion, and for which they ſtand juſtly deprived by Law. And ſo it is not a Petition for Order, and Unity, and Concord, and the common Good, but quite contrary, namely, for the countenancing and encouraging and upholding of a Faction, Sect, and Party of Men in the Nation, againſt Order, Uni<g ref="char:EOLhyphen"/>ty, and the common Good, that they may have leave and licenſe by Law and publick Authority to ridicule and libel the Government, to let in the common Enemy, to make their own terms with him, and betray the Na<g ref="char:EOLhyphen"/>tion. For this one Principle, that their preſent Majeſties are Uſurpers, and that it is ſinful to ſwear Allegiance to them, and pray for them as rightful King and Quen, is againſt the very Being and Foundation of the Government; it is pregnant of a thouſand ſeditious and diſloyal Practices, it is as Fire in the Thatch, and carries univerſal Deſolation and Confuſion in its Bowels. The Petitioners do not at all deſire an Act of Union and
+<pb n="4" facs="tcp:65247:3"/> Comprehenſion for all ſuch of their Majeſties Subjects as agree in all Fun<g ref="char:EOLhyphen"/>damentals towards God and towards the King, and differ but in variable Rites and Forms, not neceſſary to the Being of Church and State; ſuch an Act would be a bleſſed Act; but thi<gap reason="illegible" resp="#MURP" extent="1 letter">
+                  <desc>•</desc>
+               </gap> they are againſt, this they dread: they only deſire an Act for reſtoring a few peccant Biſhops to their Profits and Places, whoſe deluded Conſciences will not permit them to ſwear Al<g ref="char:EOLhyphen"/>legiance to their preſent Majeſties; that ſo being in Place; and having ob<g ref="char:EOLhyphen"/>tained the eſtabliſhment of their wicked Principle by Law, they may by Law undo the Government, and bring in Confuſion.</p>
+            <p n="7">7. The Petitioners are Men that have ſworn Allegiance to their preſent Majeſties, and in their publick Prayers pray daily; <hi>From all Sedition—Good Lord deliver us.</hi> Now if this be not a ſeditious Principle, that their preſent Majeſties are Uſurpers, and that it is ſinful to ſwear Allegiance to them, there is no ſuch thing as Sedition, neither can it be declared what Sedition and Diſloyalty is. Why halt ye betwe<gap reason="illegible" resp="#MURP" extent="1 span">
+                  <desc>〈…〉</desc>
+               </gap> 
+               <gap reason="illegible" resp="#MURP" extent="1 span">
+                  <desc>〈…〉</desc>
+               </gap>o Opinions, between Loyalty and Diſloyalty? If their preſent Majeſties <gap reason="illegible" resp="#MURP" extent="1 letter">
+                  <desc>•</desc>
+               </gap>e not rightful King and Queen before God and all the World, why do you ſwear Allegiance to them? Why do you in your publick Prayers Morning and Evening each day, beſeech God for them as rightful King and Queen, and for their Pro<g ref="char:EOLhyphen"/>ſperity and good Succeſs againſt all their Enemies, and thereby notoriouſly diſſemble with God and Men, and give occaſion to all both Friends and Foes, both Proteſtants and Papiſts, to think and ſpeak of you as perfidi<g ref="char:EOLhyphen"/>ous and falſe Men? If their preſent Majeſties be in your Judgment right<g ref="char:EOLhyphen"/>ful King and Queen, why are you not zealous for them and their Govern<g ref="char:EOLhyphen"/>ment? Why do you lean to their Enemies? Why do you petition for the countenance and upholding thoſe, who by their refuſal to ſwear Allegiance to them, declare to all the World that they think them to be Uſurpers, and that it is horrible Perjury to ſwear Allegiance to them, and ſeparate and divide your ſelves from your diſſenting Brethren, whom you acknow<g ref="char:EOLhyphen"/>ledg to agree with you in all Fundamentals reſpecting God and their pre<g ref="char:EOLhyphen"/>ſent Majeſties?</p>
+            <p n="8">8. It will perhaps be ſaid, That the Perſons petitioned for, are Reverend Fathers of the Church, Men of great Wiſdom, Conſcience, and Integrity; and if they had not juſt grounds for their Non-conformity, we may well think they would conform. To which, beſides what is already ſaid, I re<g ref="char:EOLhyphen"/>turn theſe following Anſwers. 1. It is a ſaying of <hi>Luther's, Nunquam periclitatur Religio niſi inter Reverendiſſimos,</hi> the State of the Church is never in ſo much danger as from thoſe who are ſtiled Moſt Reverend. 2. There be others of their Order, ſtiled <hi>Moſt Reverend Fathers of the Church,</hi> who do conform, and have given as good proof of their Wiſdom, Conſcience and Integrity, as thoſe that do not conform. Now both cannot
+<pb n="5" facs="tcp:65247:3"/> be in the right, of neceſſity one of the two muſt be in an Error, and it is no ſmall Error, it is an Error againſt the Foundation of the preſent Go<g ref="char:EOLhyphen"/>vernment, both of Church and State. 3. As to Things Spiritual and Eter<g ref="char:EOLhyphen"/>nal we know no Father, but <hi>our Father which is in Heaven,</hi> Mat. 23. 9. and as to Worldly and Temporal Government, the Nation knoweth no Father but King <hi>William.</hi> No Biſhop, no Apoſtle is more than a Member of Chriſt's Body the Church, Jeſus Chriſt is the ſole Head, and the King is his Vicegerent, who ruleth all Eſtates as to Temporal Rule by the Sword. 4. There are conſcientious Heathens, Jews, Mahometans, Papiſts, Arians, Socinians, Quakers, Hereticks, and Perſecutors of God's Saints, who think they do God Service in killing God's moſt faithful Servants, <hi>John</hi> 16. 2. ſuch an one was <hi>Paul</hi> before his Converſion. Error and Su<g ref="char:EOLhyphen"/>perſtition, and falſe Zeal, hath perverted and corrupted the Conſciences of the Perſons petitioned for. Their Conſcience will give them leave to ſtrain at a Gnat, and ſwallow a Camel; to be for an Oath of Obedience from Presbyters to Biſhops, but not for an Oath of Allegiance from all the Subjects of <hi>England</hi> to their preſent Majeſties; to ſilence, anathematize, ſuſpend, impriſon and undo multitudes of wiſe, and good, and uſeful Men for Non-conformity to things indifferent, and in their own nature not neceſſary in the Judgment of the moſt rigid Conformiſts: moderate Con<g ref="char:EOLhyphen"/>formiſts confeſs them to be inconvenient, tho not flatly ſinful; and the Diſſenters conceive them to be flatly ſinful. Their Conſcience will give them leave to diſpenſe with and keep up Miniſters, Non-reſidency, and Pluralities (which even the Council of <hi>Trent</hi> condems) and ſelling Spiri<g ref="char:EOLhyphen"/>tual Pardons and Indulgences for Money in their Courts, by Commutation of honeſt Repentance for filthy Lucre; it will give them leave not to la<g ref="char:EOLhyphen"/>bour in the Word and Doctrine, and yet to expect and receive double Honour, and to prefer Ordination by unlearned, ungodly, idolatrous, per<g ref="char:EOLhyphen"/>ſecuting Popiſh Biſhops, before Ordination by learned, ancient, godly, or<g ref="char:EOLhyphen"/>thodox and moſt reverend Proteſtant Presbyters. From ſuch a Conſcience I pray God bleſs me.</p>
+            <p n="9">9. The Perſons petitioned for, and their Adherents, have ſtood much upon their Loyalty to the Higher Powers, and have boaſted of it and glo<g ref="char:EOLhyphen"/>ried in it, as tho they had been the only Loyal Perſons: and now by God's juſt Judgment themſelves are fallen into the Pit of Diſloyalty, and their deluded Conſcience will not ſuffer them to come forth, and ſo it is not in our power to help them. Let them in God's Name repent, imitate Dr. <hi>Sherlock,</hi> ſhame themſelves before God and the World by honeſt and wholſome Repentance and Confeſſion of their falſe Principles concerning the Government, and then they will merit Pardon, and we ſhall not need to petition Authority for them.</p>
+            <p n="10">
+               <pb n="6" facs="tcp:65247:4"/>10. Whether King <hi>William</hi> be rightful King or no, is not lawful to diſpute; becauſe ſuch a Diſpute in the nature of it, doth ſuppoſe the matter doubtful and queſtionable: Whereas it is unqueſtionably plain, that he is rightfully King; for he is in full Poſſeſſion of the Throne by common Conſent, and diſ<gap reason="illegible" resp="#MURP" extent="1 letter">
+                  <desc>•</desc>
+               </gap>enſeth Law and Juſtice to all the Realm, and protecteth his Subjects in their Civil Rights, and in the free exerciſe of their Re<g ref="char:EOLhyphen"/>ligion, and it cannot be proved that he is an Uſurper. All that can be alledged is but Conjecture, and uncertain Opinion, and doubtful Diſputation, which in a Point of this nature, ſignifies nothing at all: For unleſs it be plain and clear as the Sun at Noon-day, that he is not rightful Poſſeſſor of the Throne, if the Evidence be not ſo clear and plain, as fully to convince the Conſciences of all impartial Men, ſincerely ſtudious of their Duty to God and the King; if there be twenty Reaſons for, and as many Reaſons againſt King <hi>William,</hi> the Conſciences of all in the Nation are bound to own and ſub<g ref="char:EOLhyphen"/>mit to him as rightful King, and to renounce and diſclaim Allegiance to the late King <hi>James,</hi> as having no Right at all to the Throne.</p>
+            <p n="11">11. The Nation hath not depoſed the late King, but he hath depoſed himſelf, and abdicated himſelf from the Government, by invading the Fundamental Laws of the Nation, whereby the mutual Rights of Prince and People do conſiſt, particularly by going about to impoſe on three Kindoms a ſuppo<gap reason="illegible" resp="#MURP" extent="1 span">
+                  <desc>〈…〉</desc>
+               </gap> 
+               <gap reason="illegible" resp="#MURP" extent="1 span">
+                  <desc>〈…〉</desc>
+               </gap>ce of <hi>Wales,</hi> in order to bring in the Papacy, and ſubjecting them to a Foreign Ju<gap reason="illegible" resp="#MURP" extent="1 span">
+                  <desc>〈…〉</desc>
+               </gap>ction, as to Eccleſiaſtical Cauſes, and enſlaving them as to their Civil Rights, and excluding the right Heir. Againſt this Invaſion of the Fundamental Laws and Rights of the Nation, the Nation having no other Remedy, did, by the Prince of <hi>Orange,</hi> their Head and Chieftain (whom it principally concerned in right of his Princeſs) juſtly appeal to God the ſu<g ref="char:EOLhyphen"/>pream Judg, with their Swords in their Hands, and God received their Appeal, gave Sentence for them in wonderful manner, and made the late King, by real Abdication, to quit all Right to the Throne, and the whole Nation unanimouſly by their Repreſenta<g ref="char:EOLhyphen"/>tives lawfully and peaceably aſſembled, to fill the Throne with their preſent Majeſties. Not they who fight for, but they who fight againſt the Fundamental Laws of the Na<g ref="char:EOLhyphen"/>tion, by which the mutual Rights of Prince and People do con<gap reason="illegible" resp="#MURP" extent="1 letter">
+                  <desc>•</desc>
+               </gap>iſt, are to be eſteemed and judged Fighters againſt God's Ordinance and juſt Authority.</p>
+            <p n="12">12. Earthly Kingdoms and Monarchies are an Image and Reſemblance of God's Kingdom over all. Now God claims no Allegiance and Subjection from any Man, but in conſideration of thoſe Benefits and Favours which he affordeth in common to all Men, as their Creator and Upholder, and to all elect Men in ſpecial, as their gracious God in Chriſt; and if he ſhall not perform his Oath and Covenant to all Men in general, to all elect Men in ſpecial, he is contented that we eſteem him no God, and renounce all Subjection and Allegiance to him; and he makes our own Conſciences Judges between him and us: <hi>Iſa. 5. 3. Gen.</hi> 9. 8, 9, &amp;c. and 18. 23, 24, 25. <hi>Heb. 11. 6. 1 Joh.</hi> 1. 9. There is therefore a mutual Covenant, tacit or expreſs, in every legal Monarchy, where<g ref="char:EOLhyphen"/>by the mutual Rights of Prince and People conſiſt; which Covenant being broken and made void in the ſubſtantial Branches of it, the innocent Party hath ground of Appeal to God the ſupream Judg and Diſpoſer of Crowns and Kingdoms, in whoſe Deciſion all Sides and Parties are to acquieſce. But where this Appeal cannot be made by the Sword without ruine of the State, and doing more hurt than good, it is not to be at<g ref="char:EOLhyphen"/>tempted, no Remedy can be eligible which is worſe than the Diſeaſe.</p>
+            <p n="13">13. This is the true Mean between the Doctrine of reſiſting Authority ſupream and ſubordinate, and the Doctrine of not reſiſting thoſe who pretend Authority, but really have none, but are Cut-throats, Murderers, Aſſaſſins, and Invaders of juſt and lawful Rights, having no Authority ſo to do. To reſiſt Authority ſupream and ſubordinate, is not to reſiſt Man but God; and they who reſiſt him, are guilty of Folly and Impiety,
+<pb n="7" facs="tcp:65247:4"/> and can look for nothing but Damnation. Not to reſiſt thoſe who pretend Authority, but really have none, when we are ſufficiently able to reſiſt them, and to ſave our ſelves from their unjuſt Violence, is not to be Martyrs, but Fools, unworthy of God, and thoſe Bleſſings and good things he doth be<gap reason="illegible" resp="#MURP" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ruſt us with, which he will call us to account for, and damn us if we have not been w<gap reason="illegible" resp="#MURP" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ſe and faithful Stewards thereof. Now the Undertaking of the Prince of <hi>Orang<gap reason="illegible" resp="#MURP" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>,</hi> and his Adheren<gap reason="illegible" resp="#MURP" extent="1 letter">
+                  <desc>•</desc>
+               </gap>s, was not a reſiſting of Autho<g ref="char:EOLhyphen"/>rity, but a juſt V<gap reason="illegible" resp="#MURP" extent="2 letters">
+                  <desc>••</desc>
+               </gap>dication of thoſe Rights which the late King <hi>James,</hi> without all Au<g ref="char:EOLhyphen"/>thority, did ſeek by Force and Fraud to deprive them of. For the Queſtion between the late King on one ſide, and the Prince of <hi>Orange</hi> and his Adherents on the other ſide, being plainly this, Whether the ſuppoſed Prince of <hi>Wales</hi> was really born of the Queen or not? Here it is evident, that the late King was not Judg, but a Party. And it is un<g ref="char:EOLhyphen"/>reaſonable, and againſt all Laws of God and Man, for any Man, yea, for the Emperor himſelf, to be Judg in his own Cauſe, as <gap reason="illegible" resp="#MURP" extent="1 letter">
+                  <desc>•</desc>
+               </gap>p <hi>
+                  <g ref="char:V">Ʋ</g>ſher</hi> grants in his Book of the Power of the Prince, <hi>pag.</hi> 162. The late King being no Judg as to this Point, he could have no Authority, his refuſal to give the Nation juſt and reaſonable Satisfaction, was a refuſal of common Right, contrary to the Law of Nations, and to the Fundamental Laws of this Kingdom, whereby the Throne is upheld, and upon which, as a Foundation, the Crown ſtands; which F<gap reason="illegible" resp="#MURP" extent="1 span">
+                  <desc>〈…〉</desc>
+               </gap>tion falling, the Crown muſt needs fall with it, and the Conſcience of the Subject <gap reason="illegible" resp="#MURP" extent="2 letters">
+                  <desc>••</desc>
+               </gap> diſcharged from all Ties and Bonds of Allegiance.</p>
+            <p n="14">14. Admitting the Prince of <hi>Wales</hi> to be feigned, the Conſciences of the late King and all his Partakers, both Foreign and Domeſtick, will compel them to yield, that it was a Complication of horrible Crimes againſt all Law, both Divine and Human, that all the Subjects of theſe three Nations and Kingdoms were bound in their ſeveral places, all that in them lay, to withſtand and hinder ſuch a Villany and Injuſtice from taking effect; and that all who fight and take up Arms in defence thereof, are Fighters againſt God, againſt common Honeſty, againſt thoſe Fundamental Laws of the Nation, which ſecure the mutual Rights of Prince and People, and which the late King was ſworn to obſerve inviolate: and that they who fight againſt the Authors and Abettors of this Villany under the Conduct of the Prince of <hi>Orange,</hi> in right of his Princeſs and the next Heir to the Crown, are fighters for God, and for common Honeſty, and have Law and Conſcience on their ſide. Now the late King refuſed to give the Nation juſt and rea<g ref="char:EOLhyphen"/>ſonable Satisfaction, and put himſelf upon trial and deciſion of his Cauſe by the Sword; and ſinking in his Undertaking, withdrew himſelf, left the Throne, and the Nation to ſhift for it ſelf, and ſee to its own Safety: which accordingly it did, by placing their Majeſties in the Throne, and thereby ſecuring publick Peace, and laying a ſure Foun<g ref="char:EOLhyphen"/>dation for future Peace and Tranquillity to all Generations. As for thoſe who think it is ſufficient for the ſaving their Conſciences if they ſwear Allegiance to King <hi>William,</hi> as King <hi>de facto,</hi> not <hi>de jure:</hi> I do very much queſtion it, <hi>non tali auxilio nec defenſoribus iſtis tempus eget;</hi> this preſent Cauſe needs no ſuch Advocates. I ſee not how they can ex<g ref="char:EOLhyphen"/>cuſe and defend thoſe of the Nobility, Gentry, Clergy, and Commonalty who did invite the Prince of <hi>Orange</hi> over, and hazard their All in his Cauſe after his landing. <hi>Debile fundamentum fallit opus;</hi> The Superſtructure can be no ſtronger than the Foundation: and if the Prince of <hi>Orange</hi> had no juſt ground for his Undertaking, I ſee not how his Adherents can be juſtified. I ſay not that the buſineſs of the Prince of <hi>Wales</hi> was the only ground for his now Majeſties Undertaking, but I think it was a principal one, which conſidered in its Cauſes, Concomitants, and Effects, is abundantly ſufficient for Vindication of the preſent Settlement, and for ever ſtopping the Mouths of all its Op<g ref="char:EOLhyphen"/>poſers. I do not build the Juſtice of his Majeſties Cauſe upon bare Succeſs; but yet a righteous Cauſe I hope is not the worſe for being bleſſed by God with wonderful and aſtoniſhing Succeſs.</p>
+            <p n="15">
+               <pb n="8" facs="tcp:65247:5" rendition="simple:additions"/>15. That which in my Obſervation makes the Enemies of the Government to bear ill-will to it, is Hatred to impartial Godlineſs. The Devil doth not uſe to envy Men Proſperity in Wickedneſs; but the more they proſper in Wickedneſs, the more he is pleaſed, they may take their fill of it, he will not diſquiet them. And if the preſent Settlement were only Proſperity in Evil, Satan would not envy and he ſo much a<g ref="char:EOLhyphen"/>gainſt it, as it is viſible he is, by his Agents and Inſtruments. King <hi>David</hi> once ſaid, <hi>
+                  <gap reason="illegible" resp="#MURP" extent="1 letter">
+                     <desc>•</desc>
+                  </gap> am this day weak, tho Anointed King; and theſe Men, the Sons of</hi> Zervi<gap reason="illegible" resp="#MURP" extent="1 span">
+                  <desc>〈…〉</desc>
+               </gap> 
+               <gap reason="illegible" resp="#MURP" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap> 
+               <hi>too hard for me<gap reason="illegible" resp="#MURP" extent="1 span">
+                     <desc>〈…〉</desc>
+                  </gap> the Lord ſhall reward the Doer of Evil according to his Wickedneſs;</hi> 2 Sam: 3. 39. There have been among us, and yet are Sons of <hi>Zerviah,</hi> too hard for the Government; but the comfort is, the Government is like the Houſe of <hi>David,</hi> waxing ſtronger and ſtronger, and theſe Sons of <hi>Zerviah,</hi> the Doers of Evil, wax weaker and weaker. The Sons of <hi>Zerviah</hi> were thoſe who adhered to <hi>David</hi> againſt the Houſe of <hi>Saul,</hi> and were Men of great Intereſt and Power, they were a Combination and Faction in the State, who took advantage of the Weakneſs and Infancy of the Government, to the com<g ref="char:EOLhyphen"/>paſſing of their own Ends and politick Deſigns againſt the general good of Prince and People. The like we have among us at this day, but <hi>the Lord ſhall reward the Doer of Evil according to his Wickedneſs.</hi>
+            </p>
+            <p n="16">16. I ſee not how <gap reason="illegible" resp="#MURP" extent="2 letters">
+                  <desc>••</desc>
+               </gap>y Man can be a good Man who is <gap reason="illegible" resp="#MURP" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap> peaceable Man, and I ſee not how a Man can be peaceable, who governs himſelf <gap reason="illegible" resp="#MURP" extent="2 letters">
+                  <desc>••</desc>
+               </gap> unpeaceable and ſedi<g ref="char:EOLhyphen"/>tious Principles. Loyalty and Allegiance to the higher Powers is an eſſential Branch of the fifth Commandment, comprized in our Baptiſmal Covenant, and taught to Children in the common Catechiſm. And tho many may be loyal to their King and Country, who are void of holy Love and Loyalty towards God; yet I ſee not how a Man can be truly holy and loyal towards God, who is not a good Subject, a good Common-wealths Man, who is not zealous for the publick Good, who governs him<g ref="char:EOLhyphen"/>ſelf by Principles deſtructive of human Society.</p>
+            <p n="17">17. Upon the ſame grounds that the Perſons petitioned for, ſcruple Allegiance to their preſent Majeſties, they might have ſcrupled Allegiance to thoſe who were laſt in the Throne, and the Subjects of any King now on Earth may ſcruple Allegiance to their Soveraign. For I would ask them, what better Right to the Throne had the late King <hi>James</hi> after his Brother's death, than their preſent Majeſties now have? They will ſay, The Right of Succeſſion. Very well. Now all ſides grant, that a ſucceſſive<note place="margin">
+                  <gap reason="illegible" resp="#MURP" extent="1 word">
+                     <desc>〈◊〉</desc>
+                  </gap> A cer<g ref="char:EOLhyphen"/>tain Grand Jury were ſeverely re<g ref="char:EOLhyphen"/>proved by an emi<gap reason="illegible" resp="#MURP" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>ent Judg for offe<gap reason="illegible" resp="#MURP" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>ing this Petition; which is a ſuffi<gap reason="illegible" resp="#MURP" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>ient E<g ref="char:EOLhyphen"/>
+                  <gap reason="illegible" resp="#MURP" extent="1 span">
+                     <desc>〈…〉</desc>
+                  </gap>ce of the Illegali<g ref="char:EOLhyphen"/>ty thereof.</note> Kingdom is no Inlargement of Right, but a Continuation of what the Predeceſſor had. For he that ſucceeds, ſucceeds <hi>in univerſum jus defuncti,</hi> into all the Right of the deceaſed. Now becauſe there cannot be <hi>proceſſus in infinitum,</hi> infinite proceeding, therefore of ne<g ref="char:EOLhyphen"/>ceſſity we muſt come to ſome firſt, in whom the Monarchy began. But no legal and juſt Monarchy can begin and be conſtituted without mutual Compact and Covenant tacit or expreſs between Prince and People. It were eaſy to ſhew this at large from Scripture, Natural Reaſon, the Cuſtom of Nations, and approved general Uſage, and the Conceſſions of Adverſaries. Now this Right their Majeſties have, as good as <hi>Will.</hi> the Conqueror had, and as good as <hi>Henry</hi> the <hi>7<hi rend="sup">th</hi>
+               </hi> had. As for the grand Objection of a former Obligation to the late King; the Anſwer is, that he was as truly and as ſtrongly bound to us as we to him, and we did not firſt forſake him, but he forſook us; we did not reſiſt lawful Authority, but only thoſe who pretended Authority, but really had none. For no Law, whether Divine or Humane, gave the late King Authority to impoſe upon the Conſciences of all in three Kingdoms a feigned Prince of <hi>Wales,</hi> to the Ex<g ref="char:EOLhyphen"/>c<gap reason="illegible" resp="#MURP" extent="1 letter">
+                  <desc>•</desc>
+               </gap>u<gap reason="illegible" resp="#MURP" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ion of the right Heir, and overthrowing the Right of Succeſſion. He by engaging in defence of this Villany, did engage againſt God, againſt the Law, againſt common Honeſty, againſt the common Good, and made himſelf no legal Monarch, but a Sub<g ref="char:EOLhyphen"/>verter of the Legal Monarchy, and ſo he did diſcharge us from all ties of Allegiance o him, and it became our Duty, by force of Arms, to ſtand up for the legal Mo<g ref="char:EOLhyphen"/>narchy againſt its Enemies.</p>
+            <trailer>FINIS.</trailer>
+         </div>
+      </body>
+   </text>
+</TEI>
